@@ -7,6 +7,8 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 
 
+    //我是b
+    private TextView view;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
